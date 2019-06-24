@@ -82,5 +82,5 @@ Ignite/
 Ignite
 
 # static build
-web/build
+build/*
 
